@@ -1,5 +1,11 @@
-# github-workshop-assessment
+## Project Description
+This repository is created for GitHub workshop practice.
 
-Name: L.Mohana Satya Priya 
-College:  Kalasalingam Academy Of Research And Education
-Workshop Date:  10/02/2026
+## How to Run
+1. Clone the repository
+2. Open the project files
+3. Read the README file
+
+## Folder Structure
+- README.md
+- intro.txt
